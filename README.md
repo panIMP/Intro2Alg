@@ -1,4 +1,4 @@
 Intro2Alg
 =========
 
-All the quiz of introduction to algorithm
+All the quizs of introduction to algorithm
